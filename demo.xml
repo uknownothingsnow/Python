@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<configuration>
+  <configSections>
+    <section name="WorkflowRuntime" type="System"/>
+    <section name="loggingConfiguration" type="Microsoft"/>
+    <section name="cachingConfiguration" type="Microsoft"/>
+  </configSections>
+</configuration>
+
